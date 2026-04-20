@@ -1,0 +1,9 @@
+Modelo,Experimento,Accuracy,F1-Score,AUC-ROC
+XGBoost,exp1_se,0.6452,0.6282,0.6995
+Red Neuronal,exp1_se,0.6438,0.6342,0.6966
+KNN,exp1_se,0.6288,0.6174,0.6796
+Reg. Logística,exp1_se,0.6172,0.6036,0.6645
+Red Neuronal,exp2_todas,0.6741,0.6641,0.7319
+XGBoost,exp2_todas,0.6719,0.6601,0.7314
+KNN,exp2_todas,0.6573,0.6513,0.7124
+Reg. Logística,exp2_todas,0.6564,0.658,0.7119
